@@ -1,0 +1,9 @@
+1) College students need a way to properly schedule their work and commuting alongside their sleep cycle so they're able to 
+perform optimally as much as possible. Otherwise, too much or too little sleep will make it harder for them to 
+perform their best in college. It should be done such that the student still has free time 
+left over and he/she rotates between tasks so as to return to each one with a fresh mind each time, 
+making them easier to finish and making the student more productive. 
+
+2) Travelers need a more convenient way of planning out international trips on every level: both global and local. Not only should all possible airplane routes be 
+suggested, but after selecting one's desired places, as well as one's food preferences, and what kind of things he/she likes, an a list of several possible iternaries also 
+throughout local areas should be formed that the user can tweak to their preference.  
